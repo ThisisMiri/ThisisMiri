@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
 -->
 
 <div align="center">
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   
 
 ### <div align="center">I'm Miri, a Front-End developer 👨‍💻 </div>  
-  
+  <!--
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
   
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   
 
 <br/>  
-
+-->
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
